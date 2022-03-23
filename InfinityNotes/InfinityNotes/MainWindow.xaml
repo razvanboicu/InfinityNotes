@@ -1,0 +1,73 @@
+﻿<Window x:Class="InfinityNotes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:eo="http://schemas.essentialobjects.com/wpf/"
+        xmlns:local="clr-namespace:InfinityNotes"
+        mc:Ignorable="d"
+        
+        Background="Transparent"
+        Title="MainWindow" Height="720" Width="1280">
+
+
+    <Window.CommandBindings>
+        <CommandBinding Command="New" CanExecute="CommonCommandBinding_CanExecute" />
+        <CommandBinding Command="Open" CanExecute="CommonCommandBinding_CanExecute" />
+        <CommandBinding Command="Save" CanExecute="CommonCommandBinding_CanExecute" />
+        <CommandBinding Command="SaveAs" CanExecute="CommonCommandBinding_CanExecute" />
+        <CommandBinding Command="Find" CanExecute="CommonCommandBinding_CanExecute" />
+    </Window.CommandBindings>
+
+    
+    
+    <Border CornerRadius="5" x:Name="myBorder">
+        <Border.Background>
+            <LinearGradientBrush StartPoint="0.3, 0" EndPoint="0.6, 1">
+                <GradientStop Color="#5b0e2d" Offset="1"/>
+                <GradientStop Color="#ffe042" Offset="0"/>
+            </LinearGradientBrush>
+            </Border.Background>
+            <DockPanel>
+            <ToolBarTray DockPanel.Dock="Top">
+                <ToolBar Background="Transparent">
+                    <Button Command="New" Content="New" Click="NewTabDefault"/>
+                    <Button Command="Open" Content="Open" Click="OpenContext"/>
+                    <Button Command="Save" Content="Save" Click="SaveContext"/>
+                    <Button Command="SaveAs" Content="Save As" Click="SaveAsContext" />
+                </ToolBar>
+                <ToolBar Background="Transparent">
+                    <Button Command="Find" Content="Find/Replace" Click="FindReplaceContext"/>
+                    <Button Content="About me" Click="AboutMe"/>
+                </ToolBar>
+            </ToolBarTray >
+            <ToolBarTray DockPanel.Dock="Left" Orientation="Vertical" Background="Transparent">
+                <ToolBar>
+                    <Button Command="Cut" ToolTip="Cut selection to Windows Clipboard.">
+                        <Image Source="/cut.png" Stretch="Fill" Width="16" Height="16" VerticalAlignment="Top" Margin="0,0,0,0" RenderOptions.BitmapScalingMode="HighQuality"/>
+                    </Button>
+                    <Button Command="Copy" ToolTip="Copy selection to Windows Clipboard.">
+                        <Image Source="/copy.png" Stretch="Fill" Width="16" Height="16" VerticalAlignment="Top" Margin="0,0,0,0" RenderOptions.BitmapScalingMode="HighQuality"/>
+                    </Button>
+                    <Button Command="Paste" ToolTip="Paste from Windows Clipboard.">
+                        <StackPanel Orientation="Horizontal">
+                            <Image Source="paste.png" Stretch="Fill" Width="16" Height="16" VerticalAlignment="Top" Margin="0,0,0,0" RenderOptions.BitmapScalingMode="HighQuality"/>
+                        </StackPanel>
+                    </Button>
+                </ToolBar>
+            </ToolBarTray>
+
+            <TreeView Name="trvStructure" TreeViewItem.Expanded="TreeViewItem_Expanded" Margin ="5,27,5,12"  DockPanel.Dock="Right" />
+
+            <TabControl x:Name="tabControl" >
+
+            </TabControl>
+
+        </DockPanel>
+
+    </Border>
+    
+
+</Window>
+
+    

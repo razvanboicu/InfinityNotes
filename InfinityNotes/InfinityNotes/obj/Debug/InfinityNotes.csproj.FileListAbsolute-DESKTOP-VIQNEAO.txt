@@ -1,0 +1,15 @@
+C:\Users\razva\OneDrive - Universitatea Transilvania din Brasov\Desktop\MVP\Tema 1 - InfinityNotes\InfinityNotes\InfinityNotes\bin\Debug\InfinityNotes.exe.config
+C:\Users\razva\OneDrive - Universitatea Transilvania din Brasov\Desktop\MVP\Tema 1 - InfinityNotes\InfinityNotes\InfinityNotes\bin\Debug\InfinityNotes.exe
+C:\Users\razva\OneDrive - Universitatea Transilvania din Brasov\Desktop\MVP\Tema 1 - InfinityNotes\InfinityNotes\InfinityNotes\bin\Debug\InfinityNotes.pdb
+C:\Users\razva\OneDrive - Universitatea Transilvania din Brasov\Desktop\MVP\Tema 1 - InfinityNotes\InfinityNotes\InfinityNotes\obj\Debug\MainWindow.g.cs
+C:\Users\razva\OneDrive - Universitatea Transilvania din Brasov\Desktop\MVP\Tema 1 - InfinityNotes\InfinityNotes\InfinityNotes\obj\Debug\App.g.cs
+C:\Users\razva\OneDrive - Universitatea Transilvania din Brasov\Desktop\MVP\Tema 1 - InfinityNotes\InfinityNotes\InfinityNotes\obj\Debug\InfinityNotes_MarkupCompile.cache
+C:\Users\razva\OneDrive - Universitatea Transilvania din Brasov\Desktop\MVP\Tema 1 - InfinityNotes\InfinityNotes\InfinityNotes\obj\Debug\InfinityNotes_MarkupCompile.lref
+C:\Users\razva\OneDrive - Universitatea Transilvania din Brasov\Desktop\MVP\Tema 1 - InfinityNotes\InfinityNotes\InfinityNotes\obj\Debug\MainWindow.baml
+C:\Users\razva\OneDrive - Universitatea Transilvania din Brasov\Desktop\MVP\Tema 1 - InfinityNotes\InfinityNotes\InfinityNotes\obj\Debug\InfinityNotes.g.resources
+C:\Users\razva\OneDrive - Universitatea Transilvania din Brasov\Desktop\MVP\Tema 1 - InfinityNotes\InfinityNotes\InfinityNotes\obj\Debug\InfinityNotes.Properties.Resources.resources
+C:\Users\razva\OneDrive - Universitatea Transilvania din Brasov\Desktop\MVP\Tema 1 - InfinityNotes\InfinityNotes\InfinityNotes\obj\Debug\InfinityNotes.csproj.GenerateResource.cache
+C:\Users\razva\OneDrive - Universitatea Transilvania din Brasov\Desktop\MVP\Tema 1 - InfinityNotes\InfinityNotes\InfinityNotes\obj\Debug\InfinityNotes.csproj.CoreCompileInputs.cache
+C:\Users\razva\OneDrive - Universitatea Transilvania din Brasov\Desktop\MVP\Tema 1 - InfinityNotes\InfinityNotes\InfinityNotes\obj\Debug\InfinityNotes.exe
+C:\Users\razva\OneDrive - Universitatea Transilvania din Brasov\Desktop\MVP\Tema 1 - InfinityNotes\InfinityNotes\InfinityNotes\obj\Debug\InfinityNotes.pdb
+C:\Users\razva\OneDrive - Universitatea Transilvania din Brasov\Desktop\MVP\Tema 1 - InfinityNotes\InfinityNotes\InfinityNotes\obj\Debug\GeneratedInternalTypeHelper.g.cs
