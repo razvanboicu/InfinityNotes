@@ -1,2 +1,29 @@
-# Tema-1---InfinityNotes
- 
+Sa se realizeze in C# folosind WPF (Windows Presentation Foundation) o aplicatie asemanatoare
+cu Notepad++ (https://notepad-plus-plus.org/downloads/), cu urmatoarele functionalitati:
+1. Sa deschida un tab gol pentru a scrie text in el
+2. Sa salveze continutul din tab ca fisier text (submeniurile Save si Save As)
+3. Sa deschida continutul unui fisier text de pe disc intr-un tab (submeniul Open, cu optiune
+implicita de a deschide fisiere cu extensia txt, dar si cu posibilitatea de a deschide orice
+fisier)
+4. Sa deschida structura de directoare si fisiere de pe disc, sub forma arborescenta, in care
+directoarele se pot expanda sau colapsa
+5. La dublu click pe un fisier din structura, sa se deschida continutul acestuia intr-un tab nou
+6. Sa inchida un fisier deschis intr-un tab (daca fisierul nu este salvat, atunci sa se solicite
+salvarea lui)
+7. Pentru functionalitatile de Find, Replace si Replace All se va specifica daca se va face
+operatia doar pe fisierul curent sau in toate fisierele deschise.
+Aplicatia va avea o bara de meniuri cu urmatoarele meniuri/submeniuri:
+File: - New
+- Open...
+- Save
+- Save As...
+- Exit
+Search:- Find...
+- Replace...
+- Replace All...
+Help: - About
+La submeniul About va aparea o fereastra cu numele studentului, grupa din care face parte si un
+link catre adresa de email institutionala.
+Tab-urile care contin fisiere in ele vor afisa si numele fisierului deschis. Daca e un document
+nou, atunci numele tabului va fi dat automat File 1, File 2 etc. Fisierele nesalvate vor evidentia in
+nume acest aspect (e.g. vor avea numele cu o alta culoare sau vor avea un alt marcaj)
