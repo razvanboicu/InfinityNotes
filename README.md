@@ -1,4 +1,7 @@
-Task:
+# InfinityNotes
+An application that mimics notepad++ and some of its features
+
+## Task
 Create in C # using WPF (Windows Presentation Foundation) a similar application
 with Notepad ++ (https://notepad-plus-plus.org/downloads/), with the following features:
   1. Open an empty tab to write text in it
