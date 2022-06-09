@@ -40,7 +40,7 @@ new, then the tab name will be automatically given File 1, File 2 etc. Unsaved f
 name this aspect (e.g. they will have a different color name or a different marking)
 
 The view after click on New and then on Open
-![offer1](https://user-images.githubusercontent.com/95618244/172890529-e94f61c0-7d18-46cc-a388-745847c3ad90.JPG)
+![proba1](https://user-images.githubusercontent.com/95618244/172890927-11b51cfe-3745-415e-8400-9b0118dba9b6.JPG)
 ![prob2](https://user-images.githubusercontent.com/95618244/172890800-2c6efec8-7c45-4f07-8f13-46dd7db1e6bf.JPG)
 
 The view after click on Find/Replace
