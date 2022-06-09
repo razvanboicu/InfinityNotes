@@ -18,17 +18,20 @@ with Notepad ++ (https://notepad-plus-plus.org/downloads/), with the following f
   operation only on the current file or in all open files.
   The application will have a menu bar with the following menus / submenus:
 
-File: - New
+File: 
+- New
 - Open ...
 - Save
 - Save As ...
 - Exit
 
-Search: - Find ...
+Search: 
+- Find ...
 - Replace ...
 - Replace All ...
 
-Help: - About
+Help: 
+- About
 
 A window with the student's name will appear in the About submenu, the group to which a
 link to institutional email address.
