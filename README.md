@@ -38,3 +38,10 @@ link to institutional email address.
 Tabs that contain files in them will also display the name of the open file. If it's a document
 new, then the tab name will be automatically given File 1, File 2 etc. Unsaved files will be highlighted in
 name this aspect (e.g. they will have a different color name or a different marking)
+
+The view after click on New and then on Open
+![offer1](https://user-images.githubusercontent.com/95618244/172890529-e94f61c0-7d18-46cc-a388-745847c3ad90.JPG)
+![prob2](https://user-images.githubusercontent.com/95618244/172890800-2c6efec8-7c45-4f07-8f13-46dd7db1e6bf.JPG)
+
+The view after click on Find/Replace
+![prob3](https://user-images.githubusercontent.com/95618244/172890873-72fe6dba-cfb6-45d8-bb40-40f5867f5557.JPG)
